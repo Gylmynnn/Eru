@@ -6,6 +6,10 @@ This repository contains my personal Linux desktop dotfiles and configuration fi
 
 - `Waybar/` - Waybar configuration for Hyprland. Full details are in `Waybar/README.md`.
 
+## Preview
+### Waybar
+![Waybar preview](Waybar/waybar.png)
+
 ## Usage
 
 1. Clone this repository.
