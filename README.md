@@ -1,13 +1,13 @@
 # Dotfiles
 
-Repo ini berisi kumpulan dotfiles dan konfigurasi desktop Linux pribadi.
+This repository contains my personal Linux desktop dotfiles and configuration files.
 
-## Struktur repo
+## Repository Structure
 
-- `Waybar/` - konfigurasi Waybar untuk Hyprland. Detail lengkap ada di `Waybar/README.md`.
+- `Waybar/` - Waybar configuration for Hyprland. Full details are in `Waybar/README.md`.
 
-## Penggunaan
+## Usage
 
-1. Clone repo ini.
-2. Masuk ke folder komponen yang ingin dipakai.
-3. Ikuti panduan pada `README.md` di folder tersebut.
+1. Clone this repository.
+2. Enter the component folder you want to use.
+3. Follow the instructions in that folder's `README.md`.
