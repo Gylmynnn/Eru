@@ -41,6 +41,9 @@ Optional (used by some modules):
 
 Referenced local scripts:
 
+for catloop script and setup here :
+[waycat](https://github.com/CarloCattano/waycat)
+
 - `~/scripts/catloop.sh`
 - `~/.config/waybar/custom-scripts/cava.sh`
 - `logoutlaunch.sh`
