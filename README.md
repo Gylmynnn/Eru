@@ -5,10 +5,14 @@ This repository contains my personal Linux desktop dotfiles and configuration fi
 ## Repository Structure
 
 - `Waybar/` - Waybar configuration for Hyprland. Full details are in `Waybar/README.md`.
+- `Dunst/` - Dunst notification configuration for Hyprland. Full details are in `Dunst/README.md`.
 
 ## Preview
 ### Waybar
 ![Waybar preview](Waybar/waybar.png)
+
+### Dunst
+![Dunst preview](Dunst/dunst1.png)
 
 ## Usage
 
