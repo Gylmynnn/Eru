@@ -2,6 +2,8 @@
 
 Neovim configuration based on NvChad with Lazy.nvim plugin manager.
 
+![Neovim preview](neovim.webp)
+
 ## Folder Contents
 
 - `init.lua` - Main Neovim entry point, plugin manager setup and initialization.
