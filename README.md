@@ -6,6 +6,7 @@ This repository contains my personal Linux desktop dotfiles and configuration fi
 
 - `Waybar/` - Waybar configuration for Hyprland. Full details are in `Waybar/README.md`.
 - `Dunst/` - Dunst notification configuration for Hyprland. Full details are in `Dunst/README.md`.
+- `Starship/` - Starship prompt configuration. Full details are in `Starship/README.md`.
 - `Neovim/` - Neovim nvchad Configuration. Full details are in `Neovim/README.MD`
 
 ## Preview
