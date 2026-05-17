@@ -1,0 +1,18 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export AGENT_ROUTER_TOKEN:sk\x2dhDrOo0VvMtKpbgDQ5E32QRjWOuYYZCNZXp7lpjag483cXTnc
+SETUVAR --export ANTHROPIC_API_KEY:sk\x2d6VFeeV2h6gpl2vTXWXh9m9uSifQLHw7ucWBNDH2mpNkp1pJo
+SETUVAR --export ANTHROPIC_AUTH_TOKEN:hoztqMZwsSHP4idv38g1zXMmAz\x2b1Soc\x3d
+SETUVAR --export ANTHROPIC_BASE_URL:https\x3a//agentrouter\x2eorg/
+SETUVAR --export GEMINI_API_KEY:AIzaSyAdCbRQJCRklr5__Z1pzXZFbZFqo4rq2CQ
+SETUVAR --export GTK_THEME:Everblush
+SETUVAR --export OPENAI_API_KEY:sk\x2dgNzMBd0tJWrgneWo6dPXzOz36UjEEyGVeycG94iBbD0vFQzt
+SETUVAR --export OPENAI_BASE_URL:https\x3a//agentrouter\x2eorg/v1
+SETUVAR --export OPENAI_MODEL:claude\x2dsonnet\x2d4\x2d5\x2d20250929
+SETUVAR --export --path PATH:/usr/lib/jvm/java\x2d17\x2dopenjdk/bin\x1e/home/ligichi/Android/Sdk/tools\x1e/home/ligichi/Android/Sdk/tools/bin\x1e/home/ligichi/Android/Sdk/platform\x2dtools\x1e/home/ligichi/\x2econfig/herd\x2dlite/bin\x1e/home/ligichi/\x2ebun/bin\x1e/usr/lib/jvm/java\x2d17\x2dopenjdk/bin\x1e/home/ligichi/Android/Sdk/tools\x1e/home/ligichi/Android/Sdk/tools/bin\x1e/home/ligichi/Android/Sdk/platform\x2dtools\x1e/home/ligichi/\x2econfig/herd\x2dlite/bin\x1e/home/ligichi/\x2ebun/bin\x1e/usr/lib/jvm/java\x2d17\x2dopenjdk/bin\x1e/home/ligichi/Android/Sdk/tools\x1e/home/ligichi/Android/Sdk/tools/bin\x1e/home/ligichi/Android/Sdk/platform\x2dtools\x1e/home/ligichi/\x2econfig/herd\x2dlite/bin\x1e/home/ligichi/\x2ebun/bin\x1e/usr/lib/jvm/java\x2d17\x2dopenjdk/bin\x1e/home/ligichi/Android/Sdk/tools\x1e/home/ligichi/Android/Sdk/tools/bin\x1e/home/ligichi/Android/Sdk/platform\x2dtools\x1e/home/ligichi/\x2econfig/herd\x2dlite/bin\x1e/home/ligichi/\x2ebun/bin\x1e/usr/local/sbin\x1e/usr/local/bin\x1e/usr/bin\x1e/usr/lib/jvm/default/bin\x1e/usr/bin/site_perl\x1e/usr/bin/vendor_perl\x1e/usr/bin/core_perl\x1e/home/ligichi/\x2elocal/bin\x1e/home/ligichi/\x2elocal/share/bin\x1ehome/ligichi/\x2epub\x2dcache/bin\x1e/home/ligichi/\x2elocal/bin\x1ehome/ligichi/\x2epub\x2dcache/bin\x1e/home/ligichi/\x2elocal/bin\x1e/home/ligichi/\x2epub\x2dcache/bin
+SETUVAR __fish_initialized:4300
+SETUVAR _fisher_catppuccin_2F_fish_files:\x7e/\x2econfig/fish/themes/Catppuccin\x20Frappe\x2etheme\x1e\x7e/\x2econfig/fish/themes/Catppuccin\x20Latte\x2etheme\x1e\x7e/\x2econfig/fish/themes/Catppuccin\x20Macchiato\x2etheme\x1e\x7e/\x2econfig/fish/themes/Catppuccin\x20Mocha\x2etheme
+SETUVAR _fisher_jorgebucaran_2F_fisher_files:\x7e/\x2econfig/fish/functions/fisher\x2efish\x1e\x7e/\x2econfig/fish/completions/fisher\x2efish
+SETUVAR _fisher_plugins:jorgebucaran/fisher\x1ecatppuccin/fish
+SETUVAR _fisher_upgraded_to_4_4:\x1d
+SETUVAR fish_user_paths:/home/ligichi/go/bin\x1e/home/ligichi/\x2eopencode/bin\x1e/home/ligichi/\x2espicetify

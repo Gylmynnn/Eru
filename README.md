@@ -8,6 +8,7 @@ This repository contains my personal Linux desktop dotfiles and configuration fi
 - `Dunst/` - Dunst notification configuration for Hyprland. Full details are in `Dunst/README.md`.
 - `Starship/` - Starship prompt configuration. Full details are in `Starship/README.md`.
 - `Neovim/` - Neovim nvchad Configuration. Full details are in `Neovim/README.MD`
+- `Fish/` - Fish shell configuration. Full details are in `Fish/README.md`
 
 ## Preview
 ### Waybar
