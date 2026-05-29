@@ -1,0 +1,22 @@
+[
+  {
+    "exec": "hyprlock",
+    "icon": "/home/ligichi/.config/nwg-bar/assets/lock.svg"
+  },
+  {
+    "exec": "systemctl suspend",
+    "icon": "/home/ligichi/.config/nwg-bar/assets/sleep.svg"
+  },
+  {
+    "exec": "hyprctl dispatch exit",
+    "icon": "/home/ligichi/.config/nwg-bar/assets/exit.svg"
+  },
+  {
+    "exec": "systemctl reboot",
+    "icon": "/home/ligichi/.config/nwg-bar/assets/reboot.svg"
+  },
+  {
+    "exec": "systemctl poweroff",
+    "icon": "/home/ligichi/.config/nwg-bar/assets/off.svg"
+  }
+]

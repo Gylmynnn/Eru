@@ -9,6 +9,7 @@ This repository contains my personal Linux desktop dotfiles and configuration fi
 - `Starship/` - Starship prompt configuration. Full details are in `Starship/README.md`.
 - `Neovim/` - Neovim nvchad Configuration. Full details are in `Neovim/README.MD`
 - `Fish/` - Fish shell configuration. Full details are in `Fish/README.md`
+- `Nwgbar/` - Nwgbar configuration. Full details are in `Nwgbar/README.md`
 - `Hyprland/` - Hyprland hyprlang and lua configuration. Full details are in `Hyprland/README.md`
 
 ## Preview
