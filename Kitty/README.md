@@ -181,4 +181,3 @@ Ctrl+Shift+E
 
 - [Kitty Documentation](https://sw.kovidgoyal.net/kitty/)
 - [Nerd Fonts](https://www.nerdfonts.com/)
-- [Catppuccin Theme](https://github.com/catppuccin/kitty)
