@@ -10,6 +10,7 @@ This repository contains my personal Linux desktop dotfiles and configuration fi
 - `Neovim/` - Neovim nvchad Configuration. Full details are in `Neovim/README.MD`
 - `Fish/` - Fish shell configuration. Full details are in `Fish/README.md`
 - `Nwgbar/` - Nwgbar configuration. Full details are in `Nwgbar/README.md`
+- `Kitty/` - Kitty terminal configuration. Full details are in `Kitty/README.md`
 - `Hyprland/` - Hyprland hyprlang and lua configuration. Full details are in `Hyprland/README.md`
 
 ## Preview
@@ -21,6 +22,8 @@ This repository contains my personal Linux desktop dotfiles and configuration fi
 
 ### Neovim
 ![Neovim preview](Neovim/neovim.webp)
+
+### Kitty
 
 ## Usage
 
