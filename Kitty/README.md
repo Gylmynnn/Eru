@@ -1,6 +1,7 @@
 # Kitty Dotfiles
 
 Modern GPU-based terminal emulator configuration with custom theming and tab styling.
+![Kitty preview](kitty.png)
 
 ## Folder Contents
 
