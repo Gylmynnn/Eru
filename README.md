@@ -24,6 +24,7 @@ This repository contains my personal Linux desktop dotfiles and configuration fi
 ![Neovim preview](Neovim/neovim.webp)
 
 ### Kitty
+![Kitty preview](Kitty/kitty.png)
 
 ## Usage
 
