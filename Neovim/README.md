@@ -64,20 +64,6 @@ cp -r Neovim/.stylua.toml ~/.config/nvim/
 cp -r Neovim/lazy-lock.json ~/.config/nvim/
 ```
 
-Or use the automated script (Arch-based distros only):
-
-```bash
-bash Neovim/install.sh
-```
-
-This script will:
-
-- check whether `neovim` is already installed,
-- install `neovim` if it is missing,
-- back up existing config to `~/.config/nvim.backup-<timestamp>` (if present),
-- deploy the latest configuration files,
-- install lazy.nvim and plugins on first startup.
-
 ## First Run
 
 After installation, open Neovim and it will automatically:
@@ -87,20 +73,6 @@ After installation, open Neovim and it will automatically:
 3. Install Mason packages and LSP servers.
 
 This may take a few minutes on the first run.
-
-## Uninstall
-
-Use the following script to uninstall:
-
-```bash
-bash Neovim/uninstall.sh
-```
-
-The uninstall script will:
-
-- check `neovim` installation status,
-- remove config files deployed by the script,
-- optionally remove the `neovim` package via `pacman -Rns` if installed.
 
 ## Quick Customization
 

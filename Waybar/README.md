@@ -56,35 +56,6 @@ cp Waybar/config.jsonc ~/.config/waybar/config.jsonc
 cp Waybar/style.css ~/.config/waybar/style.css
 ```
 
-Or use the automated script (Arch-based distros only):
-
-```bash
-bash Waybar/install.sh
-```
-
-This script will:
-
-- check whether `waybar` is already installed,
-- install `waybar` if it is missing,
-- back up existing config to `~/.config/waybar.backup-<timestamp>` (if present),
-- deploy the latest `config.jsonc` and `style.css`,
-- restart Waybar if it is currently running.
-
-## Uninstall
-
-Use the following script to uninstall:
-
-```bash
-bash Waybar/uninstall.sh
-```
-
-The uninstall script will:
-
-- check `waybar` installation status,
-- stop Waybar process (if running),
-- remove config files deployed by the script (`config.jsonc` and `style.css`),
-- remove the `waybar` package via `pacman -Rns` if installed.
-
 Restart Waybar:
 
 ```bash

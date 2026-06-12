@@ -39,19 +39,6 @@ cp Nwgbar/style.css ~/.config/nwg-bar/style.css
 cp -r Nwgbar/assets ~/.config/nwg-bar/
 ```
 
-Or use the automated script (Arch-based distros only):
-
-```bash
-bash Nwgbar/install.sh
-```
-
-This script will:
-
-- check whether `nwg-bar` is already installed,
-- install `nwg-bar` if it is missing,
-- back up existing config to `~/.config/nwg-bar.backup-<timestamp>` (if present),
-- deploy the latest `bar.json`, `style.css`, and `assets/`.
-
 ## Usage
 
 Launch the power menu from Hyprland:
@@ -65,20 +52,6 @@ Or bind it to a keyboard shortcut in your Hyprland config:
 ```
 bind = $mainMod, Escape, exec, nwg-bar
 ```
-
-## Uninstall
-
-Use the following script to uninstall:
-
-```bash
-bash Nwgbar/uninstall.sh
-```
-
-The uninstall script will:
-
-- check `nwg-bar` installation status,
-- remove config files deployed by the script (`bar.json`, `style.css`, and `assets/`),
-- remove the `nwg-bar` package via `pacman -Rns` if installed.
 
 ## Quick Customization
 

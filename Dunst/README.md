@@ -44,41 +44,6 @@ mkdir -p ~/.config/dunst
 cp Dunst/dunstrc ~/.config/dunst/dunstrc
 ```
 
-Or use the automated script (Arch-based distros only):
-
-```bash
-bash Dunst/install.sh
-```
-
-This script will:
-
-- check whether `dunst` is already installed,
-- install `dunst` if it is missing,
-- back up existing config to `~/.config/dunst.backup-<timestamp>` (if present),
-- deploy the latest `dunstrc`,
-- restart Dunst if it is currently running.
-
-## Uninstall
-
-Use the following script to uninstall:
-
-```bash
-bash Dunst/uninstall.sh
-```
-
-The uninstall script will:
-
-- check `dunst` installation status,
-- stop Dunst process (if running),
-- remove deployed config file (`~/.config/dunst/dunstrc`),
-- remove the `dunst` package via `pacman -Rns` if installed.
-
-Start Dunst manually:
-
-```bash
-dunst &
-```
-
 ## Quick Customization
 
 - Update `font` and urgency colors in `dunstrc`.

@@ -48,20 +48,6 @@ cp Kitty/everblush-theme.conf ~/.config/kitty/everblush-theme.conf
 cp Kitty/tab_bar.py ~/.config/kitty/tab_bar.py
 ```
 
-Or use the automated script (Arch-based distros only):
-
-```bash
-bash Kitty/install.sh
-```
-
-This script will:
-
-- check whether `kitty` is already installed,
-- install `kitty` if it is missing,
-- back up existing config to `~/.config/kitty.backup-<timestamp>` (if present),
-- deploy the latest configuration files,
-- restart Kitty if it is currently running.
-
 ## Configuration
 
 ### Font Customization
@@ -101,21 +87,6 @@ Enable/disable cursor trail:
 cursor_trail 3
 cursor_trail_decay 0.1 0.4
 ```
-
-## Uninstall
-
-Use the following script to uninstall:
-
-```bash
-bash Kitty/uninstall.sh
-```
-
-The uninstall script will:
-
-- check `kitty` installation status,
-- stop Kitty process (if running),
-- remove config files deployed by the script,
-- remove the `kitty` package via `pacman -Rns` if installed.
 
 ## Restart Kitty
 
